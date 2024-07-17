@@ -2,4 +2,4 @@
 
 ## Am now simulating a push to the main branch after changing the repo LOCALLY. Pushing to GitHub now... 
 
-## This is the correct and UPDATED line. To be committed from the local repo. 
+## Creating a merge conflict from the LOCAL repo
